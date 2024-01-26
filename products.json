@@ -1,1 +1,9 @@
-{"29a5110d-7327-4d69-9219-70abeb29820d":{"id":"29a5110d-7327-4d69-9219-70abeb29820d","name":"ferari","price":600,"quantity":60,"image":"image"}}
+{
+  "29a5110d-7327-4d69-9219-70abeb29820d": {
+    "id": "29a5110d-7327-4d69-9219-70abeb29820d",
+    "name": "ferari",
+    "price": 600,
+    "quantity": 60,
+    "image": "image"
+  }
+}
